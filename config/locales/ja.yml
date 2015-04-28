@@ -1,0 +1,13 @@
+# Japanese strings go here for Rails i18n
+ja:
+  label_view_customize: "ビューカスタマイズ"
+  label_view_customize_plural: "ビューカスタマイズ"
+  label_view_customizes_new: "新規追加"
+  field_path_pattern: "対象のパス"
+  field_customize_type: "タイプ"
+  field_code: "コード"
+  field_is_private: "プライベート"
+  field_is_enabled: "有効"
+  field_author: "編集者"
+  text_path_pattern_info: "対象となるパスに正規表現を使用できます。(例： /issues/[0-9]+)"
+  text_path_pattern_match_info: "ページのパスと一致する場合に以下のコードが実行されます。"
